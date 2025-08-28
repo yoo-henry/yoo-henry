@@ -1,7 +1,7 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu repositório
 
 <p align="center">
-  <img https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN5bWJncWRyeXJ6amxnNmlqdTM4MDRpOWh1N3Y2Z2hlczJ5cWQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN5bWJncWRyeXJ6amxnNmlqdTM4MDRpOWh1N3Y2Z2hlczJ5cWQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" />
 </p>
 
 ---
@@ -43,9 +43,8 @@ Este repositório faz parte do meu processo de aprendizado. Aqui você encontrar
 ## 📫 Contato
 
 Fique à vontade para entrar em contato comigo:  
-[📧 Clique aqui para enviar um e-mail](cruzhenrique263@gmail.com)
+[📧 Clique aqui para enviar um e-mail](mailto:cruzhenrique263@gmail.com)
 
 ---
 
 <p align="center">Feito com ❤️ por [Henrique Cruz]</p>
-
