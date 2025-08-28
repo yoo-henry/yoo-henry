@@ -13,8 +13,8 @@ Tenho interesse em seguir carreira como desenvolvedor e aprender cada vez mais s
 
 💻 Lógica de programação  
 🐍 Desenvolvimento com Python  
-🖥️ Backend e automações  
-📊 Dados e análise  
+🖥️ HTML e css
+📊 Banco de dados 
 🛠️ Boas práticas com Git e GitHub  
 
 Atualmente, estou focado em estudos, cursos e projetos práticos para desenvolver minhas habilidades.
