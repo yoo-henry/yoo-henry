@@ -15,7 +15,6 @@ Tenho interesse em seguir carreira como desenvolvedor e aprender cada vez mais s
 🐍 Desenvolvimento com Python  
 🖥️ HTML e css
 📊 Banco de dados 
-🛠️ Boas práticas com Git e GitHub  
 
 Atualmente, estou focado em estudos, cursos e projetos práticos para desenvolver minhas habilidades.
 
@@ -35,7 +34,7 @@ Este repositório faz parte do meu processo de aprendizado. Aqui você encontrar
 ## 🚀 Tecnologias que estou usando
 
 🐍 Python  
-🔧 Git e GitHub  
+🔧 Git e Github
 💻 Visual Studio Code  
 
 ---
@@ -43,7 +42,7 @@ Este repositório faz parte do meu processo de aprendizado. Aqui você encontrar
 ## 📫 Contato
 
 Fique à vontade para entrar em contato comigo:  
-[📧 Clique aqui para enviar um e-mail](mailto:cruzhenrique263@gmail.com)
+[📧 Clique aqui para enviar um e-mail](:cruzhenrique263@gmail.com)
 
 ---
 
