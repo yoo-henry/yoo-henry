@@ -56,12 +56,5 @@ Fique à vontade para entrar em contato comigo:
 
 ---
 
-<p align="center">Feito com ❤️ por <strong>Henrique Cruz</strong></p>
+<p align="center">Feito por <strong>Henrique Cruz</strong></p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
