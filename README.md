@@ -32,22 +32,6 @@ Este repositório faz parte do meu processo de aprendizado. Aqui você encontrar
 - 💡 Mini aplicações em Python  
 - 🔁 Testes com automações e backend *(em breve!)*
 
----
-
-## 🚀 Tecnologias que estou usando
-
-- 🐍 Python  
-
-- ⚙️ C#  
-
-- 🔧 GitHub  
-
-- 💻 Visual Studio Code  
-
-- 📊 Banco de Dados
-
----
-
 ## 📫 Contato
 
 Fique à vontade para entrar em contato comigo:
