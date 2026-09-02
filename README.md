@@ -30,7 +30,7 @@ Este repositório faz parte do meu processo de aprendizado. Aqui você encontrar
 - 🧠 Exercícios e práticas de lógica  
 - ⚙️ Scripts simples e funcionais  
 - 💡 Mini aplicações em Python  
-- 🔁 Testes com automações e backend *(em breve!)*
+- 🔁 Testes com automações e backend
 
 ## 📫 Contato
 
